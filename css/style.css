@@ -1099,7 +1099,7 @@ support for no js
 	margin-top:30px;
 }
 .fes2-img {
-  background: url(../images/fes2.jpg) 50% 50% no-repeat;
+  background: url(../images/fondo-almacenamiento-nube-diseno-redes-empresariales.jpg) 50% 50% no-repeat;
   
   width: 100%;
   display: block;	
@@ -3243,7 +3243,7 @@ select.input-border {
 	padding:38px 3px 5px 3px;
 	margin: 0 12px 17px 12px;
 	border-bottom: 2px solid rgba(45,78,83,0);
-	color:#4b4e53;
+	color:white;
   letter-spacing:2px;
   background-color: transparent;
 }
@@ -3254,8 +3254,8 @@ select.input-border {
 .header-1 #main-menu .navbar .nav > li.current > a {
 	padding:38px 3px 5px 3px;
 	margin: 0 12px 17px 12px;
-	border-bottom: 2px solid rgba(45,78,83,1);
-	color:#4b4e53; 
+	border-bottom: 2px solid white;
+	color:white; 
 }
 .black-header #main-menu .navbar .nav > li.current > a, .header-black-white #main-menu .navbar .nav > li.current > a {
 	border-bottom: 2px solid rgba(255,255,255,1);
@@ -4250,7 +4250,7 @@ blockquote.custom-blockquote:before {
 	background:#eee;
 }
 .bg-white {
-	background:#fff;
+	background: #2E4D66;
 }
 .testimonials {
 	position:relative;
@@ -7877,7 +7877,7 @@ h2.portfolio-timeline-title {
 	  float: left;
 	  padding: 25px 17px 22px 5px; 
 	  font-size: 29px;
-	  color: #4b4e53;
+	  color: white;
 	  -webkit-transition: padding .4s ease 0s;
 	  -o-transition: padding .4s ease 0s;
 	  transition: padding .4s ease 0s;
@@ -7918,7 +7918,7 @@ h2.portfolio-timeline-title {
 	  top: 0;
 	}
 	.main-menu-container {
-		background-color: #4b4e53;
+		background-color: #2E4D66;
 	}
  	.header .logo, .header-maintenance .logo {
 		padding-top:21px;
@@ -10930,8 +10930,8 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 ===============================================*/
 .sl1-text {
   margin: 30px 0 0px 0;
-  font-size:34px;
-  line-height:43px;
+  font-size:16px;
+  line-height:30px;
 }
 @media (max-width: 480px) {
   .sl1-text {
